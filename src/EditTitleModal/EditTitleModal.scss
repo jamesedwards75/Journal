@@ -1,0 +1,11 @@
+#edit-title-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .edit-title-modal-body {
+    background-color: beige;
+    border: 2px solid #000;
+    padding: 2%;
+  }
+}

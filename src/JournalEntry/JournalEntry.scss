@@ -1,0 +1,24 @@
+.entry-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 2%;
+  margin-bottom: 5%;
+}
+
+.entry-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.entry-input {
+  width: 100%;
+  font-size: large;
+}
+
+.entry-actions {
+  display: flex;
+}
